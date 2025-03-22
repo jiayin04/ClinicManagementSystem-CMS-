@@ -1,0 +1,22 @@
+A001 |John Doe |120315-06-0983 |johndoe@example.com |Female |January 15, 1980 |123 Main St, New York, USA |013-5678213 |017-1234567 |ZzT%LVgh
+A002 |Jane Smith |040406-13-0123 |janesmith@example.com |Female |February 20, 1985 |456 Elm St, London, UK |015-3456789 |018-2345678 |AaU%MRkf
+A003 |Alice Johnson |761128-13-1234 |alicejohnson@example.com |Female |March 25, 1990 |789 Oak St, Sydney, Australia |018-4567890 |019-3456789 |BbV%NSlf
+A004 |Bob Brown |790618-06-2345 |bobbrown@example.com |Male |April 30, 1975 |901 Pine St, Toronto, Canada |019-5678901 |012-4567890 |CcW%OTmf
+A005 |Carol White |840823-12-3456 |carolwhite@example.com |Female |May 05, 1988 |234 Cedar St, Paris, France |012-6789012 |013-5678901 |DdX%PUof
+A006 |David Lee |670601-13-4567 |davidlee@example.com |Male |June 10, 1982 |567 Maple St, Tokyo, Japan |014-7890123 |014-6789012 |EeY%QVpf
+A007 |Eva Green |780112-06-5678 |evagreen@example.com |Female |July 15, 1992 |890 Walnut St, Rome, Italy |015-8901234 |015-7890123 |FfZ%RWqf
+A008 |Frank Wright |890123-13-6789 |frankwright@example.com |Male |August 20, 1987 |123 Pineapple St, Sydney, Australia |016-9012345 |016-8901234 |GgA%SXrf
+A009 |Grace Hall |901234-02-7890 |gracehall@example.com |Female |September 25, 1995 |456 Banana St, Cape Town, SA |017-0123456 |017-9012345 |HhB%TYsf
+A0010 |Henry Clark |014345-06-8901 |henryclark@example.com |Male |October 30, 1983 |789 Orange St, Beijing, China |018-1234567 |018-2345678 |IiC%UZtf
+A0011 |Ivy Young |013456-02-9012 |ivyyoung@example.com |Female |November 05, 1991 |901 Mango St, Rio de Janeiro, Brazil |019-2345678 |019-3456789 |JjD%VAug
+A0012 |Jack King |971067-06-0123 |jackking@example.com |Male |December 10, 1979 |234 Apple St, Moscow, Russia |012-3456789 |012-7890123 |KkE%WBvg
+A0013 |Karen Scott |980508-02-1234 |karenscott@example.com |Female |January 15, 1984 |567 Lemon St, Berlin, Germany |013-4567890 |013-9012345 |MmG%YDxf
+A0014 |Larry Moore |650629-01-2345 |larrymoore@example.com |Male |February 20, 1993 |890 Pear St, Rome, Italy |014-5678901 |014-2345678 |OoI%AFzf
+A0015 |Monica Hill |560709-06-3456 |monicahill@example.com |Female |March 25, 1986 |123 Plum St, New York, USA |015-6789012 |015-5678901 |MmG%YDxf
+A0016 |Nathan Lewis |670801-11-4567 |nathanlewis@example.com |Male |April 30, 1994 |456 Berry St, Sydney, Australia |016-7890123 |016-6789012 |PpJ%BGag
+A0017 |Olivia Walker |780912-11-5678 |oliviawalker@example.com |Female |May 05, 1996 |789 Cherry St, London, UK |017-8901234 |017-7890123 |QqK%CHbg
+A0018 |Paul Allen |890123-11-6789 |paulallen@example.com |Male |June 10, 1981 |012 Grape St, Paris, France |018-9012345 |018-8901234 |RrL%DIdg
+A0019 |Queen Baker |901230-06-7890 |queenbaker@example.com |Female |July 15, 1997 |345 Watermelon St, Tokyo, Japan |019-0123456 |019-9012345 |SsM%EJeg
+A0020 |Robert Adam |011129-06-8901 |robertadam@example.com |Male |August 21, 1989 |678 Potato St, Cape Town, SA |013-1212123 |013-2346456 |B1234567a@
+A0021 |TestingAdmin |012345-67-8910 |testA@mail.com |Female |January 18, 2005 |Taman Hope |013-4578291 |012-3456789 |TestAdmin@123
+A0022 |Admin |012345-67-8910 |email@gmail.com |Female |June 25, 2024 |Taman ZYX |012-4567892 |012-3456789 |LPAoCNVE

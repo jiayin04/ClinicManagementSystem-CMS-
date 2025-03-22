@@ -1,0 +1,34 @@
+MD001 |2024-02-03 |B+ |75 |180 |Hypertension |2 tabs Lisinopril
+Reducing sodium intake
+Eating plenty of fruits, vegetables, whole grains, and low-fat dairy products
+Reducing saturated fat and cholesterol intake
+Exercise |P001 |D001
+MD002 |2024-04-02 |O- |60 |165 |Diabetes |1 tab Metformin |P001 |D001
+MD003 |2024-04-04 |B+ |80 |175 |Asthma |1 inhaler Ventolin |P001 |D001
+MD004 |2024-04-06 |A- |68 |172 |Migraines |1 tab Ibuprofen |P004 |D004
+MD005 |2024-04-09 |B- |72 |168 |Allergy |1 tab Cetirizine |P005 |D005
+MD006 |2024-04-23 |O+ |55 |160 |Flu & fever |1 pax Tamiflu |P006 |D006
+MD007 |2024-04-25 |B+ |90 |180 |Arthritis |1 tab Naproxen |P0021 |D007
+MD008 |2024-05-02 |A |64 |170 |Infection |1 tab Amoxicillin |P0021 |D0021
+MD009 |2024-05-12 |B+ |70 |178 |Anaemia |1 tab Ferrous Sulfate |P0021 |D009
+MD010 |2024-05-15 |O- |62 |166 |Hypertension |1 tab Amlodipine |P001 |D0021
+MD011 |2024-05-18 |A+ |78 |180 |Diabetes |1 tab Insulin |P001 |D001
+MD012 |2024-05-21 |B- |70 |168 |Asthma |1 inhaler Symbicort |P001 |D001
+MD013 |2024-06-02 |O+ |58 |162 |Migraines |1 tab Sumatriptan |P004 |D0021
+MD014 |2024-06-05 |AB- |80 |175 |Allergy |1 tab Loratadine |P005 |D005
+MD015 |2024-06-10 |B+ |65 |165 |Flu & fever |1 pax Oseltamivir |P006 |D0021
+MD016 |2024-06-15 |A- |72 |170 |Arthritis |1 tab Celecoxib |P0021 |D007
+MD017 |2024-06-20 |A |60 |172 |Infection |1 tab Azithromycin |P0021 |D008
+MD018 |2024-06-25 |B+ |68 |176 |Anaemia |1 tab Iron supplement |P0021 |D0021
+MD019 |2024-07-03 |O- |64 |168 |Hypertension |1 tab Losartan |P0021 |D001
+MD020 |2024-07-07 |B- |74 |170 |Diabetes |1 tab Metformin |P001 |D001
+MD021 |2024-07-12 |O+ |57 |163 |Asthma |1 inhaler Albuterol |P001 |D001
+MD022 |2024-07-18 |B+ |88 |182 |Migraines |1 tab Naproxen |P004 |D0021
+MD023 |2024-07-22 |AB- |76 |178 |Allergy |1 tab Fexofenadine |P005 |D005
+MD024 |2024-07-27 |B- |71 |169 |Flu & fever |1 pax Paracetamol |P006 |D006
+MD025 |2024-08-02 |A- |69 |174 |Arthritis |1 tab Ibuprofen |P0021 |D007
+MD026 |2024-08-09 |A+ |80 |185 |Infection |1 tab Amoxicillin |P0021 |D008
+MD027 |2024-08-15 |B+ |72 |180 |Anaemia |1 tab Ferrous Sulfate |P0021 |D009
+MD028 |2024-08-21 |O- |63 |167 |Hypertension |1 tab Lisinopril |P001 |D001
+MD029 |2024-08-27 |B- |69 |173 |Diabetes |1 tab Insulin |P001 |D001
+MD030 |2024-09-03 |O+ |60 |165 |Asthma |1 inhaler Ventolin |P001 |D001

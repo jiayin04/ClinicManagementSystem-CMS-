@@ -1,9 +1,0 @@
-Invoice Details:
-Invoice Date: 2024-06-15 15:46:05
-Payment ID: P001
-Payer Name: XYZ
-Description: XXXX
-Amount (RM): 200.0
-Payment Method: Online banking
-Remarks: 
-Thank you for your payment!
