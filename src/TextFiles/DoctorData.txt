@@ -1,0 +1,22 @@
+D001 |Dr Samantha Taylor |781122-10-8912 |samanthataylor@mail.com |Female |May 15, 1987 |123 Main St, New York, USA |012-3456789 |Cardiology |MD |NnG%JPkg
+D002 |Dr Michael Brown |960823-14-6543 |michaelbrown@example.com |Male |October 20, 1978 |456 Elm St, London, UK |011-87654325 |Pediatrics |MD |TuN%WVrf
+D003 |Dr Emily White |901213-07-1234 |emilywhite@example.com |Female |November 25, 1993 |789 Oak St, Sydney, Australia |016-1234566 |Neurology |MD |WwP%SYkf
+D004 |Dr Alexander Johnson |830611-12-7890 |alexanderjohnson@example.com |Male |December 30, 1984 |901 Pine St, Toronto, Canada |012-6543210 |Orthopedics |MD |XxQ%TZlf
+D005 |Dr Sophia Martinez |950926-03-8765 |sophiamartinez@example.com |Female |January 5, 1995 |234 Cedar St, Paris, France |014-9876543 |Dermatology |MBBS |YyR%UAof
+D006 |Dr Ethan Garcia |870705-08-5678 |ethangarcia@example.com |Male |February 10, 1989 |567 Maple St, Tokyo, Japan |010-7890123 |Ophthalmology |MD |ZzS%VBpf
+D007 |Dr Isabella Thompson |920410-10-3456 |isabellathompson@example.com |Female |March 15, 1990 |890 Walnut St, Rome, Italy |015-2345678 |Psychiatry |MD |AaT%WCqf
+D008 |Dr Benjamin Lee |800320-05-9123 |benjaminlee@example.com |Male |April 20, 1986 |123 Pineapple St, Sydney, Australia |013-7890123 |Radiology |MBBS |BbU%XDrf
+D009 |Dr Mia Hall |940517-11-6789 |miahall@example.com |Female |May 25, 1992 |456 Banana St, Cape Town, SA |011-3456789 |Oncology |MD |DdW%ZTf
+D0010 |Dr Samuel Clark |891015-02-5432 |samuelclark@example.com |Male |June 30, 1981 |789 Orange St, Beijing, China |014-4567890 |Urology |MBBS |EeX%AGug
+D0011 |Dr Harper Young |761124-06-8901 |harperyoung@example.com |Female |July 5, 1997 |901 Mango St, Rio de Janeiro, Brazil |016-5678901 |Gynecology |MBBS |FfY%BHvg
+D0012 |Dr Noah King |910805-04-4567 |noahking@example.com |Male |August 10, 1977 |234 Apple St, Moscow, Russia |015-6789012 |Cardiac Surgery |MBBS |GgZ%CIwg
+D0013 |Dr Amelia Scott |840702-09-2109 |ameliascott@example.com |Female |September 15, 1988 |567 Lemon St, Berlin, Germany |012-7890123 |Endocrinology |MD |HhA%DJxf
+D0014 |Dr James Moore |960330-01-6543 |jamesmoore@example.com |Male |October 20, 1994 |890 Pear St, Rome, Italy |016-1234567 |Gastroenterology |MD |IiB%EKyf
+D0015 |Dr Lily Hill |781204-07-1234 |lilyhill@example.com |Female |November 25, 1980 |123 Plum St, New York, USA |013-2345678 |Hematology |MBBS |JjC%FLzf
+D0016 |Dr Oliver Lewis |930815-02-9876 |oliverlewis@example.com |Male |December 30, 1985 |456 Berry St, Sydney, Australia |010-5678901 |Nephrology |MD |KkD%GMag
+D0017 |Dr Grace Walker |870501-08-3456 |gracewalker@example.com |Female |January 5, 1991 |789 Cherry St, London, UK |017-6789012 |Pulmonology |MBBS |LlE%HNhf
+D0018 |Dr Elijah Allen |900629-10-4567 |elijahallen@example.com |Male |February 10, 1983 |012 Grape St, Paris, France |011-7890123 |Rheumatology |MD |234567
+D0019 |Dr Chloe Baker |811105-12-7890 |chloebaker@example.com |Female |March 15, 1998 |345 Watermelon St, Tokyo, Japan |014-8901234 |Infectious Diseases |MD |MmF%IOjg
+D0020 |Dr Daniel Adams |941212-01-2345 |danieladams@example.com |Male |April 12, 1976 |678 Potato St, Cape Town, SA |018-2341234 |Neurosurgery |MD |Ab1234567@
+D0021 |TestingDoctor |012345-67-8910 |testD@mail.com |Female |June 12, 2024 |NA |012-3456112 |Specialty Field |MD |TestD@1234
+D0022 |Ming Jia |051456-12-1564 |mingjia@mail.com |Female |January 17, 2006 |Taman Bahagia |012-3451564 |Cardiology |MD |L(SToc{Q
